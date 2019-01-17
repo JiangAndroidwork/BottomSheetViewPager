@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BottomSheetViewPager</string>
+    <string name="view_pager_bottom_sheet_behavior">com.example.jhl.bottomsheetviewpager.viewpagerofbottomsheet.ViewPagerBottomSheetBehavior</string>
+</resources>
